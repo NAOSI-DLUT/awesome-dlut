@@ -1,7 +1,8 @@
 # dlut-survival-tools
+
 与大连理工大学相关的工具收集
 
-欢迎发 issue 补充更多
+欢迎发 PR 补充更多
 
 ## 成品工具
 - [login-DLUT-LingShui](https://github.com/YuanyeMa/login-DLUT-LingShui): 登陆大连理工大学校园网的脚本
@@ -13,6 +14,7 @@
 - [RSSforSSDUT](https://github.com/Augists/RSSforSSDUT): 开发区校区软件学院和国际信息与软件学院本科生通知
 - [koishi-plugin-ssdut-notice](https://github.com/saurlax/koishi-plugin-ssdut-notice)：Koishi 机器人插件，自动推送教务处、后勤部、开发区和软件软国院内通知
 - [dlut-webvpn-web](https://github.com/LittlePorcupine/dlut-webvpn-web)：基于 ESWZY/webvpn-dlut 的 WebVPN 链接转换工具
+- [SSDUT-KeepMoving](https://github.com/AcidBarium/SSDUT-KeepMoving)：开发区操场 Keep 截图工具
 
 ## 基础工具
 - [DLUT-login](https://github.com/BeautyYuYanli/DLUT-login): 自动化登陆大连理工大学统一认证系统和 webvpn 系统
