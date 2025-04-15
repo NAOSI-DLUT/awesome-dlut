@@ -41,4 +41,4 @@
 - 🟢[man.naosi.org](https://man.naosi.org/)：大工生存手册。
 - 🟢[saurlax/koishi-plugin-ssdut-notice](https://github.com/saurlax/koishi-plugin-ssdut-notice)：Koishi 机器人插件，自动推送教务处、后勤部、开发区校区、软件软国学院通知。
 - ⚪[Augists/RSSforSSDUT](https://github.com/Augists/RSSforSSDUT)：软件学院、国际信息与软件学院本科生通知。
-- ⚪[RSSHub-大学通知-大连理工大学](https://docs.rsshub.app/university.html#da-lian-li-gong-da-xue)：大工各官网 RSS。
+- ⚪[RSSHub#大连理工大学](https://docs.rsshub.app/zh/routes/other#%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)：大工各官网 RSS。
