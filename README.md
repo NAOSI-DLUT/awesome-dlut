@@ -35,6 +35,7 @@
 - ⚪[ShuaichiLi/DLUT-library-auto-reservation](https://github.com/ShuaichiLi/DLUT-library-auto-reservation)：大连理工大学图书馆自动预约座位小程序。
 - ⚪[qhy040404/DLUT-library-auto-reservation](https://github.com/qhy040404/DLUT-library-auto-reservation)：大连理工大学图书馆自动预约座位小程序另一个维护更及时的实例。
 - ⚪[qhy040404/Library-One-Tap-Android](https://github.com/qhy040404/Library-One-Tap-Android)：图书馆安卓小程序。
+- 🟢[Stardreama/DLUT_GPA_Helper](https://github.com/Stardreama/DLUT_GPA_Helper)：一个油猴插件，用于帮助学生更灵活地计算加权成绩。
 
 ## 新闻资讯
 
