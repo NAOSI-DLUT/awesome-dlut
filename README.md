@@ -29,6 +29,7 @@
 
 - 🟢[Lentinel/DUT_TeacherEvaluation_Auto_Submit_Tool](https://github.com/Lentinel/DUT_TeacherEvaluation_Auto_Submit_Tool)：大工教务系统学生评教问卷一键自动填写及提交的油猴脚本。
 - 🟢[AcidBarium/SSDUT-KeepMoving](https://github.com/AcidBarium/SSDUT-KeepMoving)：生成开发区校区操场 Keep 截图工具。
+- 🟢[LangQi99/dlut-FakeRun](https://github.com/LangQi99/dlut-FakeRun) 安卓虚拟定位操场跑步 内置路径点 可实时热更新速度
 - 🟢[IShiraiKurokoI/DLUTToolBoxV3](https://github.com/IShiraiKurokoI/DLUTToolBoxV3)：大连理工大学校园工具箱电脑版，集成了常见功能，类似电脑版的i大工。
 - 🟢[IShiraiKurokoI/DLUTToolBoxMobileV2](https://github.com/IShiraiKurokoI/DLUTToolBoxMobileV2)：全新使用JAVA编写的DLUTToolBox手机版，UI仿照i大工，保留i大工所有服务大厅功能并增加了一些i大工没有但实用的功能；将一些原有无法校外访问的功能增加校外访问；替官方修复一些官版无法访问的界面。
 - 🟢[IShiraiKurokoI/DLUT-CERNET-dynamic](https://github.com/IShiraiKurokoI/DLUT-CERNET-dynamic)：大连理工大学与 CERNET 连接状态的动态监测系统，仅限校园网环境访问。
