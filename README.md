@@ -21,6 +21,7 @@
 ## WebVPN 相关
 
 - 🟢[wpn.citrons.cc](https://wpn.citrons.cc/)：各大学的 WebVPN 链接转换工具。
+- 🟢[大连理工大学WebVPN转换器 Edge扩展](https://microsoftedge.microsoft.com/addons/detail/lppobhgjbkcnledmdibkjngknlholkel)：方便大工同学校外访问校内的通知等校园门户找不到的界面，点击即可一键转换当前页面 URL。
 - 🟢[IShiraiKurokoI/DLUTModernWebvpnBrowser](https://github.com/IShiraiKurokoI/DLUTModernWebvpnBrowser)：方便大工同学校外访问校内的通知等校园门户找不到的界面，地址栏输入网址回车即可自动跳转。
 - ⚪[ESWZY/webvpn-dlut](https://github.com/ESWZY/webvpn-dlut)：WRD 的 WebVPN 的 URL 互转原理, 用于将 URL 转化为经过 WebVPN 的 URL。
 - ⚪[LittlePorcupine/dlut-webvpn-web](https://github.com/LittlePorcupine/dlut-webvpn-web)：基于 [ESWZY/webvpn-dlut](https://github.com/ESWZY/webvpn-dlut) 的 WebVPN 链接转换工具。
