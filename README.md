@@ -11,7 +11,7 @@
 
 ## 校园网登录相关
 
-- 🟢[Houyi2333/DLUT-EDA_NetworkStatus_Web](https://github.com/Houyi2333/DLUT-EDA_NetworkStatus_Web)：大连理工大学开发区校区校园网信息监控面板的纯网页版源码，面板校内访问地址：[172.20.30.3](http://172.20.30.3/)。本项目魔改自[IShiraiKurokoI/DLUT-EDA_NetworkStatus](https://github.com/IShiraiKurokoI/DLUT-EDA_NetworkStatus)。
+- 🟢[ylin314/DLUT-EDA_NetworkStatus_Web](https://github.com/ylin314/DLUT-EDA_NetworkStatus_Web)：大连理工大学开发区校区校园网信息监控面板的纯网页版源码，面板校内访问地址：[172.20.30.3](http://172.20.30.3/)。本项目魔改自[IShiraiKurokoI/DLUT-EDA_NetworkStatus](https://github.com/IShiraiKurokoI/DLUT-EDA_NetworkStatus)。
 - 🟡[IShiraiKurokoI/DLUT-EDA_NetworkStatus](https://github.com/IShiraiKurokoI/DLUT-EDA_NetworkStatus)：大连理工大学开发区校区校园网信息监控面板，集成状态查询，跳转登陆，注销登陆功能。（本项目已不再维护，建议使用上一条的纯网页版）
 - ⚪[YuanyeMa/login-DLUT-LingShui](https://github.com/YuanyeMa/login-DLUT-LingShui)：登录大连理工大学凌水校区校园网的脚本。
 - ⚪[Augists/dlut-eda-shell-login](https://github.com/Augists/dlut-eda-shell-login)：登录大连理工大学开发区校区校园网脚本(mac)。
