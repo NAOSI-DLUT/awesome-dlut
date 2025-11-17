@@ -35,6 +35,7 @@
 - 🟢[IShiraiKurokoI/DLUTToolBoxMobileV2](https://github.com/IShiraiKurokoI/DLUTToolBoxMobileV2)：全新使用JAVA编写的DLUTToolBox手机版，UI仿照i大工，保留i大工所有服务大厅功能并增加了一些i大工没有但实用的功能；将一些原有无法校外访问的功能增加校外访问；替官方修复一些官版无法访问的界面。
 - 🟢[IShiraiKurokoI/DLUT-CERNET-dynamic](https://github.com/IShiraiKurokoI/DLUT-CERNET-dynamic)：大连理工大学与 CERNET 连接状态的动态监测系统，仅限校园网环境访问。
 - 🟢[Stardreama/DLUT_GPA_Helper](https://github.com/Stardreama/DLUT_GPA_Helper)：一个油猴插件，用于帮助学生更灵活地计算加权成绩。
+- 🟢[tianxingleo/school-runing-dut](https://github.com/tianxingleo/school-runing-dut)：借助雷电模拟器接口实现的一个一键式校园跑自动化脚本，通过噪声算法等跑出独一无二路径
 - ⚪[ShuaichiLi/DLUT-library-auto-reservation](https://github.com/ShuaichiLi/DLUT-library-auto-reservation)：大连理工大学图书馆自动预约座位小程序。
 - ⚪[qhy040404/DLUT-library-auto-reservation](https://github.com/qhy040404/DLUT-library-auto-reservation)：大连理工大学图书馆自动预约座位小程序另一个维护更及时的实例。
 - ⚪[qhy040404/Library-One-Tap-Android](https://github.com/qhy040404/Library-One-Tap-Android)：图书馆安卓小程序。
