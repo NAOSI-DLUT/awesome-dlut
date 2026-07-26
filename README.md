@@ -41,6 +41,7 @@
 - ⚪[qhy040404/DLUT-library-auto-reservation](https://github.com/qhy040404/DLUT-library-auto-reservation)：大连理工大学图书馆自动预约座位小程序另一个维护更及时的实例。
 - ⚪[qhy040404/Library-One-Tap-Android](https://github.com/qhy040404/Library-One-Tap-Android)：图书馆安卓小程序。
 - 🟢[114taskforce/DLUT-door-open](https://github.com/114taskforce/DLUT-door-open)：大工宿舍（主校区西山生活区）门禁开门程序，单片机实现校园统一登录认证获取Token并发送开门请求，[教程见此视频P2](https://www.bilibili.com/video/BV1QXXvBEEcq/)。
+- 🟢[tianxingleo/dlut-nihongo-quiz](https://github.com/tianxingleo/dlut-nihongo-quiz)：DLUT大一下期末复习题库，覆盖综合日语、中国近现代史、党史与军事理论，支持错题本、统计分析和离线使用。
 
 ## 新闻资讯
 
